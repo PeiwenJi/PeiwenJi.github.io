@@ -5,8 +5,8 @@
     <entry>
       <title><![CDATA[Hello World]]></title>
       <url>/2021/08/04/hello-world/</url>
-      <content type="html"><![CDATA[<p>欢迎来到我的博客。这是我的第一篇文章。</p>
-<p>本博客基于Hexo+Github搭建，采用butterfly主题样式。您可以同时在电脑/平板/手机端使用。</p>
+      <content type="html"><![CDATA[<p>欢迎来到我的博客。</p>
+<p>本博客基于<a href="https://hexo.io/">Hexo</a>+<a href="https://github.com/">Github</a>搭建，采用<a href="https://github.com/jerryc127/hexo-theme-butterfly">butterfly</a>主题样式。您可以同时在电脑/平板/手机端使用。</p>
 <p>有任何疑问或者建议您可以通过邮箱或者右下角聊天框联系我。</p>
 ]]></content>
       
