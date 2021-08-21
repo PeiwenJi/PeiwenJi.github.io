@@ -27,10 +27,12 @@
 <p>本博客基于<a href="https://hexo.io/">Hexo</a>+<a href="https://github.com/">Github</a>搭建，采用<a href="https://github.com/jerryc127/hexo-theme-butterfly">butterfly</a>主题样式。您可以同时在电脑/平板/手机端使用。</p>
 <p>有任何疑问或者建议您可以通过邮箱或者右下角聊天框联系我。</p>
 <hr>
-<p>分享一些在搭建中用到的的网站：</p>
+<p>分享一些在搭建中可能用到的的网站：</p>
 <blockquote>
 <p><a href="http://luckyzmj.cn/posts/e3e08109.html">Hexo博客搭建</a>：亲试可用。</p>
 <p><a href="https://butterfly.js.org/posts/21cfbf15/">Butterfly主题配置</a>：官方教程。</p>
+<p><a href="https://github.com/xiazeyu/live2d-widget-models">Live2d看板娘</a></p>
+<p><a href="https://fontawesome.com/">Font Awesome</a>: 免费，著名字体图标库。</p>
 <p><a href="https://mycolor.space/">渐变色配色</a>：美化博客。建议先选用一个主色调，再在此基础上利用ColorSpace为其他元素配色。</p>
 <p><a href="https://www.artic.edu/collection">世界名画-芝加哥（艺术）博物馆</a>：我喜欢把它当作文章的封面。</p>
 <p><a href="https://vlad.studio/zh/wallpapers/">创意壁纸</a>：高清，很有设计感。不过好像一个账号只能免费下载7张@_@</p>
