@@ -3,11 +3,45 @@
   
     
     <entry>
+      <title><![CDATA[iGEM wiki制作指南]]></title>
+      <url>/2021/08/21/iGEM-wiki%E5%88%B6%E4%BD%9C%E6%8C%87%E5%8D%97/</url>
+      <content type="html"></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[西瓜书]]></title>
+      <url>/2021/08/21/%E8%A5%BF%E7%93%9C%E4%B9%A6/</url>
+      <content type="html"><![CDATA[<p>[toc]</p>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>最近在看《西瓜书》，想记录一下学习过程。</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[Hello World]]></title>
       <url>/2021/08/04/hello-world/</url>
       <content type="html"><![CDATA[<p>欢迎来到我的博客。</p>
 <p>本博客基于<a href="https://hexo.io/">Hexo</a>+<a href="https://github.com/">Github</a>搭建，采用<a href="https://github.com/jerryc127/hexo-theme-butterfly">butterfly</a>主题样式。您可以同时在电脑/平板/手机端使用。</p>
 <p>有任何疑问或者建议您可以通过邮箱或者右下角聊天框联系我。</p>
+<hr>
+<p>分享一些在搭建中用到的的网站：</p>
+<blockquote>
+<p><a href="http://luckyzmj.cn/posts/e3e08109.html">Hexo博客搭建</a>：亲试可用。</p>
+<p><a href="https://butterfly.js.org/posts/21cfbf15/">Butterfly主题配置</a>：官方教程。</p>
+<p><a href="https://mycolor.space/">渐变色配色</a>：美化博客。建议先选用一个主色调，再在此基础上利用ColorSpace为其他元素配色。</p>
+<p><a href="https://www.artic.edu/collection">世界名画-芝加哥（艺术）博物馆</a>：我喜欢把它当作文章的封面。</p>
+<p><a href="https://vlad.studio/zh/wallpapers/">创意壁纸</a>：高清，很有设计感。不过好像一个账号只能免费下载7张@_@</p>
+</blockquote>
+<p>只用上面几个网站你也可以做出和我一样的博客啦～快来试试吧！</p>
+<hr>
+<p>题外话：</p>
+<p>一直觉得拥有一个自己的博客是一件非常酷的事情，最近终于闲下来把它搭好了。其实算算整个过程我好像也没有花多少时间，搭建花了一个下午，调样式花了两天。差不多就是现在这样了。</p>
+<p>以前的我就是懒吧hhhhhh</p>
+<p>由于第一次搭建博客，没有什么经验，我就没有购买服务器和域名，先用免费的github练练手。以后有需要再迁移。</p>
+<p>希望能用博客记录一些学习心得和技术操作。（或许还有一些生活感悟？）</p>
 ]]></content>
       
         
